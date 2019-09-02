@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="266b7dc6-69f5-4171-a10e-59821d3c1d3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/01-get-element/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/01-get-element/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/02-manipulate-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/02-manipulate-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/03-walk-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/03-walk-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/04-walk-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/04-walk-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/05-walk-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/05-walk-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/06-find-in-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/06-find-in-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/07-filter-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/07-filter-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/08-array-includes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/08-array-includes/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-arrays/11-dedupe-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05-arrays/11-dedupe-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-select-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-select-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-select-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-select-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-attr-create/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-attr-create/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-hover-image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-hover-image/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-hover-image/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-hover-image/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-mini-carousel/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-mini-carousel/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-generate-table-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-generate-table-one/script.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Q6aqHOEHFg5VWhxbF4QyzkWGgS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="266b7dc6-69f5-4171-a10e-59821d3c1d3d" name="Default Changelist" comment="" />
+      <created>1567093688753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567093688753</updated>
+      <workItem from="1567093689950" duration="2253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

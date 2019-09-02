@@ -25,7 +25,12 @@
         "grap",
         "cherry",
     ];
+    var all;
 
-    // your code here
+    document.getElementById("run").addEventListener( "click", function () {
 
-})();
+        for (all=0 ;all < fruits.length ; all++)
+
+            console.log(fruits[all])
+
+})()});

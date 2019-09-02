@@ -9,8 +9,32 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+(function () {
 
-    // your code here
+    var target = document.getElementById("target");
+    var table = document.createElement("table");
+    var tbody = document.createElement("tbody");
+
+
+
+    for (var i = 0; i < 10; i++){
+        var tr = document.createElement("tr");
+        tbody.appendChild(tr);
+
+        for (var j = 0; j < 1; j++){
+            var td = document.createElement("td");
+            tr.appendChild(td);
+
+        }
+
+    }
+
+
+
+
+
+
+table.appendChild(tbody);
+target.appendChild(table);
 
 })();

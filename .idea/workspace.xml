@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d56b7d8c-6648-424e-9349-d93c38627576" name="Default Changelist" comment="" />
+    <list default="true" id="d56b7d8c-6648-424e-9349-d93c38627576" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/02-manipulate-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/02-manipulate-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/03-walk-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/03-walk-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/04-walk-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/04-walk-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/05-walk-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/05-walk-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/06-find-in-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/06-find-in-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/07-filter-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/07-filter-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/08-array-includes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/08-array-includes/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/11-dedupe-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/11-dedupe-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/01-select-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/01-select-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/02-select-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/02-select-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/03-select-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/03-select-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/04-attr-create/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/04-attr-create/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/05-hover-image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/05-hover-image/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/05-hover-image/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/05-hover-image/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/06-mini-carousel/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/06-mini-carousel/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/07-generate-table-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/07-generate-table-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/08-generate-table-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/08-generate-table-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/09-match-password-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/09-match-password-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/10-match-password-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/10-match-password-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/11-change-event-input-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/11-change-event-input-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-dom/12-change-event-input-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-dom/12-change-event-input-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-misc/01-waving-text/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-misc/01-waving-text/script.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +38,19 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PgFXx5KW0KyobsucwtDjAPwsyU" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -44,10 +80,29 @@
       <workItem from="1566396433025" duration="156000" />
       <workItem from="1566457721576" duration="1397000" />
       <workItem from="1566460282590" duration="20751000" />
+      <workItem from="1566890974773" duration="2346000" />
+      <workItem from="1566985152224" duration="1491000" />
+      <workItem from="1567006015938" duration="16000" />
+      <workItem from="1567062455951" duration="15587000" />
+      <workItem from="1567096037341" duration="71000" />
+      <workItem from="1567149000875" duration="15256000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -11,6 +11,26 @@
 
 (function() {
 
+    var x =  document.getElementById('source').getAttribute("data-image");
+
+    var img = document.createElement("img");
+    img.src = x;
+
+    var place = document.getElementById("target");
+
+    var source = document.getElementById("source");
+    source.parentNode.removeChild(source);
+
+//var x = document.getElementById("source").getAttribute("data-image");
+// var img = document.createElement("img");
+// img.src = x;
+// var place = document.getElementById("target");
+// place.appendChild(img);
+// var gone = document.getElementById("source");
+// gone.parentNode.removeChild(gone);
+
+
+
     // your code here
 
 })();

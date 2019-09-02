@@ -27,5 +27,11 @@
     ];
 
     // your code here
+    document.getElementById("run").addEventListener( "click", function () {
+
+        if (fruits.includes("pomme")){
+            alert("yes");
+        }else{
+            alert("no");
 
 })();

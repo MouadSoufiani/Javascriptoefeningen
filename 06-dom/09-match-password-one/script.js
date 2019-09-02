@@ -11,6 +11,23 @@
 
 (function() {
 
+    document.getElementById("run").addEventListener("click", function() {
+
+        var links = document.getElementById("pass-one").value;
+        var rechts = document.getElementById("pass-two").value;
+
+
+        if (links != rechts) {
+            links = document.getElementById("pass-one").style.borderColor = "red";
+            rechts = document.getElementById("pass-two").style.borderColor = "red";
+        } else {
+            links = document.getElementById("pass-one").style.borderColor = "green";
+            rechts = document.getElementById("pass-two").style.borderColor = "green";
+        }
+
+
+    })
+
     // your code here
 
 })();

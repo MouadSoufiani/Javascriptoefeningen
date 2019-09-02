@@ -11,6 +11,9 @@
 
 (function() {
 
+    document.querySelector("#target").innerHTML = "owned";
+
+
     // your code here
 
 })();
